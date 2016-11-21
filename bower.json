@@ -1,0 +1,8 @@
+{
+  "name": "angular-socket-io-simple-chat",
+  "dependencies": {
+    "angular": "~1.5.0",
+    "bootstrap-css-only": "^3.3.7",
+    "socket.io-client": "^1.6.0"
+  }
+}
