@@ -14,7 +14,7 @@ git clone https://github.com/anoopmd/angular-socket-io-simple-chat.git
 ### Install
 ```bash
 npm install
-bower install
+./node_modules/.bin/bower install
 ```
 
 ### Build

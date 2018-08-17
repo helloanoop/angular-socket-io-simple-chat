@@ -42,7 +42,7 @@ module.exports = function (grunt) {
       vendorjs:{
         src: [
           'bower_components/angular/angular.min.js',
-          'bower_components/socket.io-client/socket.io.min.js'
+          'bower_components/socket.io-client/dist/socket.io.min.js'
         ],
         dest: 'public/js/vendor.js'
       },
